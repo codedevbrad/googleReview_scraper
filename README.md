@@ -1,4 +1,4 @@
-# googleReview_scraper ( Typescript , Puppeteer ).
+# googleReview_scraper ( NodeJs , Typescript , Puppeteer , Cheerio ).
 
 API developed in TS uses Puppeteer to scrape the google reviews of a business.
  1. opens a new headless browser navigating to a busness page on google.
@@ -32,19 +32,26 @@ https://user-images.githubusercontent.com/46296577/200371644-647061c1-4931-45cd-
   "data": [
     {
       "name": "Christine Locock",
-      "review": "Service was excellent, staff were polite and friendly, and offered helpful advice for maintenance of windows and improving of insulation on the doors. The price seemed fairly competitive (though I'm not an expert) and the 2 year guarantee gives extra peace of mind.  Very happy and will definitely  use them again.",
+      "review": "Service was excellent, staff were polite and friendly, and offered 
+      helpful advice for maintenance of windows and improving of insulation on the doors. 
+      The price seemed fairly competitive (though I'm not an expert) and the 2 year guarantee gives extra peace of mind. 
+      Very happy and will definitely  use them again.",
       "stars": "Rated 5.0 out of 5,",
       "avatar": "https://lh3.googleusercontent.com/a/ALm5wu1kVNOaR603q_ghB4wJCprtlKagt-NbjMZH3o-u=s40-c-c0x00000000-cc-rp-mo-br100"
     },
     {
       "name": "Singing Stars",
-      "review": "Absolutely fabulous service from wonderful Christine. She is so polite, helpful & efficient.  Amazing George who was very professional & helpful & did an excellent job.  Fairly priced & very reliable too.  I will definitely highly recommend them & always use them in the future.",
+      "review": "Absolutely fabulous service from wonderful Christine. She is so polite, helpful & efficient.  
+      Amazing George who was very professional & helpful & did an excellent job.  Fairly priced & very reliable too.  I will definitely 
+      highly recommend them & always use them in the future.",
       "stars": "Rated 5.0 out of 5,",
       "avatar": "https://lh3.googleusercontent.com/a/ALm5wu0z6K5VOAzOHfootrWLqUQ_e98Rk58gOwuap19U=s40-c-c0x00000000-cc-rp-mo-br100"
     },
     {
       "name": "Anne Fisher",
-      "review": "We had a window that wasn’t fitting properly. This company came, discovered the problem, gave me a fair price and then carried out the repair in a timely manner. Very pleasant guys.Would recommend them.",
+      "review": "We had a window that wasn’t fitting properly. This company came, discovered the problem, 
+      gave me a fair price and then carried out the repair in a timely manner. 
+      Very pleasant guys.Would recommend them.",
       "stars": "Rated 5.0 out of 5,",
       "avatar": "https://lh3.googleusercontent.com/a/ALm5wu1njmqWVeNwdKgaUb0VC09cJhazr2-zGWCtkZQE=s40-c-c0x00000000-cc-rp-mo-br100"
     }
