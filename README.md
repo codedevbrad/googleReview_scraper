@@ -42,8 +42,8 @@ https://user-images.githubusercontent.com/46296577/200371644-647061c1-4931-45cd-
     {
       "name": "Singing Stars",
       "review": "Absolutely fabulous service from wonderful Christine. She is so polite, helpful & efficient.  
-      Amazing George who was very professional & helpful & did an excellent job.  Fairly priced & very reliable too.  I will definitely 
-      highly recommend them & always use them in the future.",
+      Amazing George who was very professional & helpful & did an excellent job.  Fairly priced & very reliable too.  
+      I will definitely highly recommend them & always use them in the future.",
       "stars": "Rated 5.0 out of 5,",
       "avatar": "https://lh3.googleusercontent.com/a/ALm5wu0z6K5VOAzOHfootrWLqUQ_e98Rk58gOwuap19U=s40-c-c0x00000000-cc-rp-mo-br100"
     },
